@@ -1,13 +1,16 @@
-# 💫 Hi 👋, I'm Argha Sur
-<img width="1200" height="599" alt="Banner" src="https://github.com/user-attachments/assets/793103a9-3c1b-4f15-9758-23b4fc5986a8" />
+  # 💫 Hi 👋, I'm Argha Sur
 
+
+  
+<img width="1200" height="599" alt="Banner" src="https://github.com/user-attachments/assets/386ba638-d9b8-4ede-9820-0e9cef98023b" />
 
 
   
   # 🤖 Animation coding GIF
-<img width="800" aling="left" height="600" alt="Gif" src="https://github.com/user-attachments/assets/a61a5ebe-53e0-40ac-8e53-3e973b34db18" />
+<img width="670" aling="left" height="599" alt="Gif" src="https://github.com/user-attachments/assets/d4b831f5-d83b-411d-aae8-9606d361bc0f" />
 
-Email Me 👉 ✉️ *arghasur97gmail.com* For Collaboration/Project or Anything Else. 😊😊
+
+## Email Me 👉 ✉️ *arghasur97gmail.com* For Collaboration/Project or Anything Else. 😊😊
 
 - 🔭 *I’m currently working on:* Enter your project info here
 - 👯 *I’m looking to collaborate on:* Enter your project name and info
@@ -21,7 +24,7 @@ Email Me 👉 ✉️ *arghasur97gmail.com* For Collaboration/Project or Anything
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 
 
-<!-- Snake Game Repo View -->
+# Snake Game Repo View 
 
 <div align="center">
   <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
