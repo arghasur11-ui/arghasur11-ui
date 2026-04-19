@@ -2,12 +2,12 @@
 
 
   
-<img width="1200" height="599" alt="Banner" src="https://github.com/user-attachments/assets/386ba638-d9b8-4ede-9820-0e9cef98023b" />
+<img width="1300" height="660" alt="Banner" src="https://github.com/user-attachments/assets/386ba638-d9b8-4ede-9820-0e9cef98023b" />
 
 
   
   # 🤖 Animation coding GIF
-<img width="670" aling="left" height="599" alt="Gif" src="https://github.com/user-attachments/assets/d4b831f5-d83b-411d-aae8-9606d361bc0f" />
+<img width="400"  height="300" alt="Gif" src="https://github.com/user-attachments/assets/d4b831f5-d83b-411d-aae8-9606d361bc0f" />
 
 
 ## Email Me 👉 ✉️ *arghasur97gmail.com* For Collaboration/Project or Anything Else. 😊😊
@@ -38,3 +38,4 @@
 [![](https://komarev.com/ghpvc/?username=arghasur11-ui&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<img width="640" height="360" aling="right" alt="github" src="https://github.com/user-attachments/assets/2ec0b67c-4468-4959-9475-dab1d4b63a1a" />
